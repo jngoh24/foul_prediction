@@ -1,0 +1,548 @@
+player_id,player_name,team,position,pos_role,touches,fouls_won,games,pl_enc,fouls_per_game,fouls_per_touch
+3507.0,Wilfried Zaha,Crystal Palace,Right Wing,MID,1042,102,34,0.07607,3.0,0.0979
+3814.0,Riyad Mahrez,Leicester City,Right Midfield,MID,1386,92,37,0.059,2.486,0.0664
+3629.0,Sadio Mané,Southampton,Center Attacking Midfield,MID,1344,87,37,0.05135,2.351,0.0647
+4275.0,Ross Barkley,Everton,Center Attacking Midfield,MID,2057,86,38,0.03476,2.263,0.0418
+3347.0,André Ayew Pelé,Swansea City,Right Wing,MID,1250,81,34,0.04262,2.382,0.0648
+3621.0,Eden Hazard,Chelsea,Left Wing,MID,1665,80,31,0.03985,2.581,0.048
+3385.0,Alexis Alejandro Sánchez Sánchez,Arsenal,Left Wing,MID,1808,79,30,0.03457,2.633,0.0437
+3094.0,Bamidele Alli,Tottenham Hotspur,Center Attacking Midfield,MID,1292,75,33,0.04051,2.273,0.058
+3472.0,Willian Borges da Silva,Chelsea,Right Wing,MID,1682,73,35,0.03537,2.086,0.0434
+3721.0,Etienne Capoue,Watford,Right Center Midfield,MID,1506,65,33,0.03096,1.97,0.0432
+20039.0,Anthony Martial,Manchester United,Left Wing,MID,1299,64,31,0.03954,2.065,0.0493
+3567.0,Georginio Wijnaldum,Newcastle United,Center Attacking Midfield,MID,1348,63,38,0.03451,1.658,0.0467
+3049.0,Matt Ritchie,AFC Bournemouth,Right Midfield,MID,1588,62,37,0.0263,1.676,0.039
+10955.0,Harry Kane,Tottenham Hotspur,Center Forward,FWD,1317,61,38,0.0353,1.605,0.0463
+5458.0,Odion Jude Ighalo,Watford,Left Center Forward,FWD,1014,60,37,0.03213,1.622,0.0592
+3874.0,Mark Noble,West Ham United,Left Center Midfield,MID,1763,60,37,0.0254,1.622,0.034
+4269.0,Aleksandar Mitrović,Newcastle United,Center Forward,FWD,922,59,34,0.04154,1.735,0.064
+2966.0,Stéphane Sessègnon,West Bromwich Albion,Right Midfield,MID,763,59,25,0.06122,2.36,0.0773
+5198.0,Diego da Silva Costa,Chelsea,Center Forward,FWD,1085,59,28,0.04444,2.107,0.0544
+3958.0,Pedro Eliezer Rodríguez Ledesma,Chelsea,Left Wing,MID,1203,58,29,0.041,2.0,0.0482
+3233.0,Raheem Sterling,Manchester City,Left Wing,MID,1075,58,31,0.03851,1.871,0.054
+3810.0,Shinji Okazaki,Leicester City,Right Center Forward,FWD,664,57,36,0.05987,1.583,0.0858
+3517.0,Aaron Ramsey,Arsenal,Left Defensive Midfield,MID,2257,57,31,0.01904,1.839,0.0253
+3436.0,Idrissa Gana Gueye,Aston Villa,Left Center Midfield,MID,1754,57,35,0.02553,1.629,0.0325
+4429.0,Yann Gérard M''Vila,Sunderland,Right Center Midfield,MID,1479,55,37,0.02555,1.486,0.0372
+6409.0,Adam Smith,AFC Bournemouth,Right Back,DEF,1004,55,31,0.03438,1.774,0.0548
+3496.0,Mesut Özil,Arsenal,Center Attacking Midfield,MID,2441,53,35,0.01762,1.514,0.0217
+3462.0,Jack Frank Porteous Cork,Swansea City,Right Center Midfield,MID,1585,53,35,0.02015,1.514,0.0334
+3076.0,Ayoze Pérez Gutiérrez,Newcastle United,Left Wing,MID,829,52,34,0.04604,1.529,0.0627
+7171.0,Fabio Borini,Sunderland,Left Wing,MID,703,52,26,0.05259,2.0,0.074
+23663.0,Dieumerci Mbokani Bezua,Norwich City,Center Forward,FWD,622,51,29,0.05299,1.759,0.082
+3478.0,Francesc Fàbregas i Soler,Chelsea,Right Defensive Midfield,MID,2661,51,37,0.0121,1.378,0.0192
+3594.0,Danny Rose,Tottenham Hotspur,Left Back,DEF,1088,50,24,0.03001,2.083,0.046
+3967.0,Claudio Ariel Yacob,West Bromwich Albion,Left Defensive Midfield,MID,846,49,34,0.02574,1.441,0.0579
+3450.0,Jordan Ayew,Aston Villa,Left Wing,FWD,1128,49,30,0.0307,1.633,0.0434
+3467.0,Erik Pieters,Stoke City,Left Back,DEF,1362,49,35,0.01692,1.4,0.036
+9649.0,Jack Colback,Newcastle United,Left Defensive Midfield,MID,952,48,29,0.02907,1.655,0.0504
+10966.0,Wes Hoolahan,Norwich City,Center Attacking Midfield,MID,1237,48,30,0.03043,1.6,0.0388
+3343.0,Dan Gosling,AFC Bournemouth,Right Center Midfield,MID,1244,48,34,0.03183,1.412,0.0386
+3037.0,Mousa Sidi Yaya Dembélé,Tottenham Hotspur,Left Defensive Midfield,MID,1330,48,29,0.02614,1.655,0.0361
+3684.0,Cheikhou Kouyaté,West Ham United,Right Center Midfield,MID,1154,48,34,0.02918,1.412,0.0416
+3498.0,Ignacio Monreal Eraso,Arsenal,Left Back,DEF,1663,47,37,0.0145,1.27,0.0283
+3585.0,Erik Lamela,Tottenham Hotspur,Right Wing,MID,1152,46,34,0.02754,1.353,0.0399
+3237.0,Sergio Leonel Agüero del Castillo,Manchester City,Center Forward,FWD,1065,46,30,0.03429,1.533,0.0432
+3454.0,Troy Deeney,Watford,Right Center Forward,FWD,1461,45,38,0.01244,1.184,0.0308
+3491.0,Dimitri Payet,West Ham United,Left Wing,MID,1507,45,30,0.02638,1.5,0.0299
+3842.0,Shane Long,Southampton,Center Forward,FWD,778,45,28,0.03409,1.607,0.0578
+3514.0,James McClean,West Bromwich Albion,Left Midfield,MID,813,45,35,0.03624,1.286,0.0554
+6870.0,José Manuel Jurado Marín,Watford,Left Midfield,MID,1066,44,27,0.03243,1.63,0.0413
+7063.0,Jefferson Antonio Montero Vite,Swansea City,Left Wing,MID,612,43,23,0.06004,1.87,0.0703
+9528.0,Steven Naismith,Norwich City,Center Attacking Midfield,MID,568,43,23,0.05276,1.87,0.0757
+4891.0,Ibrahim Afellay,Stoke City,Center Attacking Midfield,MID,1350,42,31,0.02359,1.355,0.0311
+3286.0,Nathan Redmond,Norwich City,Right Midfield,MID,1138,42,35,0.02787,1.2,0.0369
+40122.0,Oscar dos Santos Emboaba Júnior,Chelsea,Center Attacking Midfield,MID,1170,42,27,0.02962,1.556,0.0359
+3277.0,Yohan Cabaye,Crystal Palace,Right Defensive Midfield,MID,1194,41,33,0.02087,1.242,0.0343
+3294.0,Juan Manuel Mata García,Manchester United,Right Wing,MID,1880,41,38,0.01809,1.079,0.0218
+3054.0,Fernando Luiz Rosa,Manchester City,Left Defensive Midfield,MID,1745,41,33,0.01158,1.242,0.0235
+19688.0,Jason Puncheon,Crystal Palace,Center Attacking Midfield,MID,1343,40,31,0.02225,1.29,0.0298
+3831.0,Dušan Tadić,Southampton,Left Wing,MID,1133,40,34,0.02541,1.176,0.0353
+4041.0,José Salomón Rondón Giménez,West Bromwich Albion,Center Forward,FWD,906,40,34,0.02623,1.176,0.0442
+3589.0,Yannick Bolasie Yala,Crystal Palace,Left Wing,MID,864,40,26,0.03529,1.538,0.0463
+3595.0,Manuel Lanzini,West Ham United,Left Center Midfield,MID,1175,39,26,0.03116,1.5,0.0332
+2988.0,Memphis Depay,Manchester United,Left Wing,MID,890,39,29,0.03755,1.345,0.0438
+3064.0,David Josué Jiménez Silva,Manchester City,Center Attacking Midfield,MID,1458,39,24,0.02523,1.625,0.0267
+3337.0,Jermain Defoe,Sunderland,Center Forward,FWD,602,39,33,0.04992,1.182,0.0648
+9642.0,Alan Hutton,Aston Villa,Right Back,DEF,917,38,28,0.02909,1.357,0.0414
+3091.0,Moussa Sissoko,Newcastle United,Right Wing,MID,1693,38,37,0.01947,1.027,0.0224
+3501.0,Philippe Coutinho Correia,Liverpool,Left Wing,MID,1296,38,26,0.02228,1.462,0.0293
+3349.0,Michail Antonio,West Ham United,Right Back,MID,737,37,26,0.03592,1.423,0.0502
+3087.0,Gnégnéri Yaya Touré,Manchester City,Right Defensive Midfield,MID,1856,37,32,0.01673,1.156,0.0199
+3473.0,James Philip Milner,Liverpool,Right Center Midfield,MID,1428,37,28,0.01547,1.321,0.0259
+4090.0,Adam David Lallana,Liverpool,Center Attacking Midfield,MID,1107,36,30,0.02247,1.2,0.0325
+4022.0,Darren Fletcher,West Bromwich Albion,Right Center Midfield,MID,1397,36,38,0.01931,0.947,0.0258
+3604.0,Olivier Giroud,Arsenal,Center Forward,FWD,1010,36,38,0.02457,0.947,0.0356
+3493.0,Emre Can,Liverpool,Left Center Midfield,MID,1649,36,30,0.01045,1.2,0.0218
+3607.0,James McCarthy,Everton,Right Defensive Midfield,MID,1229,36,29,0.01473,1.241,0.0293
+3437.0,Francis Joseph Coquelin,Arsenal,Left Defensive Midfield,MID,1011,36,26,0.0255,1.385,0.0356
+3098.0,Victor Wanyama,Southampton,Right Defensive Midfield,MID,1213,35,30,0.01894,1.167,0.0289
+3289.0,Romelu Lukaku Menama,Everton,Center Forward,FWD,1396,35,37,0.01932,0.946,0.0251
+4884.0,Pape N''Diaye Souaré,Crystal Palace,Left Back,DEF,1231,35,34,0.01788,1.029,0.0284
+4913.0,Bojan Krkíc Pérez,Stoke City,Center Attacking Midfield,MID,896,35,27,0.03515,1.296,0.0391
+3092.0,Dwight Gayle,Crystal Palace,Center Forward,FWD,223,35,16,0.08122,2.188,0.157
+3062.0,Aaron Cresswell,West Ham United,Left Back,DEF,1433,35,37,0.01405,0.946,0.0244
+11062.0,Graziano Pellè,Southampton,Center Forward,FWD,1082,34,30,0.02028,1.133,0.0314
+10960.0,Jamie Vardy,Leicester City,Left Center Forward,FWD,887,34,36,0.03004,0.944,0.0383
+16457.0,Jeremain Lens,Sunderland,Right Wing,MID,559,34,20,0.04507,1.7,0.0608
+3205.0,Kyle Walker,Tottenham Hotspur,Right Back,DEF,1208,33,33,0.01256,1.0,0.0273
+3944.0,Gylfi Þór Sigurðsson,Swansea City,Center Attacking Midfield,MID,1276,33,36,0.01497,0.917,0.0259
+3325.0,Marko Arnautović,Stoke City,Left Wing,MID,1280,33,34,0.01721,0.971,0.0258
+3533.0,Xherdan Shaqiri,Stoke City,Right Wing,MID,918,33,27,0.028,1.222,0.0359
+3307.0,Marc Albrighton,Leicester City,Left Midfield,MID,1123,32,38,0.02129,0.842,0.0285
+3443.0,Joel Ward,Crystal Palace,Right Back,DEF,910,32,30,0.01867,1.067,0.0352
+3523.0,Craig Dawson,West Bromwich Albion,Right Back,DEF,1003,32,38,0.01408,0.842,0.0319
+4589.0,Séamus Coleman,Everton,Right Back,DEF,1178,32,28,0.01535,1.143,0.0272
+5596.0,Aleksandar Kolarov,Manchester City,Left Back,DEF,1373,32,29,0.01322,1.103,0.0233
+3962.0,Diafra Sakho,West Ham United,Center Forward,FWD,537,31,21,0.03977,1.476,0.0577
+3346.0,Joshua King,AFC Bournemouth,Center Forward,FWD,689,31,31,0.03136,1.0,0.045
+6800.0,Carles Gil de Pareja Vicent,Aston Villa,Right Wing,MID,850,31,23,0.03244,1.348,0.0365
+42700.0,Micah Richards,Aston Villa,Right Center Back,DEF,622,31,24,0.02845,1.292,0.0498
+3244.0,John Stones,Everton,Right Center Back,DEF,1411,31,33,0.01079,0.939,0.022
+3961.0,N''Golo Kanté,Leicester City,Left Defensive Midfield,MID,1257,30,37,0.01441,0.811,0.0239
+30702.0,Brendan Joel Zibusiso Galloway,Everton,Left Back,DEF,421,30,15,0.03891,2.0,0.0713
+3090.0,Nicolás Hernán Otamendi,Manchester City,Right Center Back,DEF,1318,30,30,0.00634,1.0,0.0228
+3636.0,Charlie Adam,Stoke City,Left Defensive Midfield,MID,566,29,22,0.03448,1.318,0.0512
+20045.0,Ryan Bertrand,Southampton,Left Back,DEF,1106,29,32,0.01633,0.906,0.0262
+3606.0,Ander Herrera Agüera,Manchester United,Center Attacking Midfield,MID,1109,29,27,0.01892,1.074,0.0261
+3633.0,Gareth Barry,Everton,Left Defensive Midfield,MID,1812,29,33,0.00953,0.879,0.016
+9627.0,Neil Taylor,Swansea City,Left Back,DEF,1212,29,34,0.0093,0.853,0.0239
+6821.0,Jesús Navas González,Manchester City,Right Wing,MID,1449,29,34,0.0166,0.853,0.02
+4271.0,Andy Carroll,West Ham United,Center Forward,FWD,523,29,27,0.0245,1.074,0.0554
+3464.0,James McArthur,Crystal Palace,Left Defensive Midfield,MID,938,29,28,0.0171,1.036,0.0309
+4280.0,Winston Reid,West Ham United,Right Center Back,DEF,636,29,24,0.00683,1.208,0.0456
+5581.0,Joel Nathaniel Campbell Samuels,Arsenal,Right Wing,MID,415,29,19,0.04842,1.526,0.0699
+10956.0,Eric Dier,Tottenham Hotspur,Right Defensive Midfield,MID,1798,28,37,0.00741,0.757,0.0156
+3991.0,Allan Romeo Nyom,Watford,Right Back,DEF,833,28,32,0.02497,0.875,0.0336
+3646.0,Marc Pugh,AFC Bournemouth,Left Midfield,MID,644,28,26,0.03791,1.077,0.0435
+3662.0,Danny Drinkwater,Leicester City,Left Center Midfield,MID,1781,28,35,0.01079,0.8,0.0157
+3449.0,Wayne Routledge,Swansea City,Right Wing,MID,794,28,28,0.02615,1.0,0.0353
+3603.0,Mame Biram Diouf,Stoke City,Center Forward,MID,351,28,26,0.04868,1.077,0.0798
+4630.0,Saido Berahino,West Bromwich Albion,Left Center Forward,MID,591,28,31,0.03631,0.903,0.0474
+7153.0,Jordan Veretout,Aston Villa,Right Center Midfield,MID,986,28,25,0.02318,1.12,0.0284
+3668.0,Theo Walcott,Arsenal,Left Wing,MID,446,28,28,0.05367,1.0,0.0628
+43081.0,Almen Abdi,Watford,Right Midfield,MID,950,27,32,0.01485,0.844,0.0284
+9485.0,Craig Gardner,West Bromwich Albion,Left Midfield,MID,618,27,34,0.03017,0.794,0.0437
+9536.0,Modou Barrow,Swansea City,Right Wing,MID,315,27,22,0.06536,1.227,0.0857
+3380.0,Christian Benteke Liolo,Liverpool,Center Forward,FWD,630,27,29,0.02053,0.931,0.0429
+20521.0,Bafétimbi Gomis,Swansea City,Center Forward,FWD,662,26,33,0.02969,0.788,0.0393
+4416.0,Max-Alain Gradel,AFC Bournemouth,Left Midfield,MID,396,26,14,0.04354,1.857,0.0657
+4590.0,Nathaniel Edwin Clyne,Liverpool,Right Back,DEF,1485,26,33,0.01092,0.788,0.0175
+3605.0,Sung-Yeung Ki,Swansea City,Left Center Midfield,MID,1137,26,28,0.02018,0.929,0.0229
+3670.0,Jonathan Walters,Stoke City,Center Forward,MID,636,26,27,0.02485,0.963,0.0409
+3394.0,Laurent Koscielny,Arsenal,Left Center Back,DEF,1373,26,33,0.00467,0.788,0.0189
+3953.0,Aaron Lennon,Everton,Right Wing,MID,542,26,25,0.03418,1.04,0.048
+3963.0,Victor Moses,West Ham United,Right Wing,MID,398,25,21,0.05268,1.19,0.0628
+3828.0,Steven Davis,Southampton,Center Attacking Midfield,MID,1462,25,34,0.01109,0.735,0.0171
+9625.0,Glenn Whelan,Stoke City,Right Defensive Midfield,MID,1769,25,37,0.00642,0.676,0.0141
+3520.0,Jeffrey Schlupp,Leicester City,Left Back,MID,552,25,24,0.04046,1.042,0.0453
+9578.0,Jonathan Howson,Norwich City,Left Center Midfield,MID,1200,24,36,0.01427,0.667,0.02
+10931.0,Joe Allen,Liverpool,Left Center Midfield,MID,400,24,19,0.03616,1.263,0.06
+3302.0,Nordin Amrabat,Watford,Left Midfield,MID,243,24,12,0.07161,2.0,0.0988
+3304.0,Harry Arter,AFC Bournemouth,Left Center Midfield,MID,1046,24,21,0.01538,1.143,0.0229
+18414.0,Bastian Schweinsteiger,Manchester United,Left Defensive Midfield,MID,1022,24,18,0.01573,1.333,0.0235
+3043.0,Christian Dannemann Eriksen,Tottenham Hotspur,Left Wing,MID,1904,24,35,0.00907,0.686,0.0126
+5594.0,Branislav Ivanović,Chelsea,Right Back,DEF,1165,24,33,0.00966,0.727,0.0206
+3077.0,Jan Vertonghen,Tottenham Hotspur,Left Center Back,DEF,1265,24,29,0.00815,0.828,0.019
+3535.0,Roberto Firmino Barbosa de Oliveira,Liverpool,Center Attacking Midfield,MID,1179,23,31,0.017,0.742,0.0195
+3515.0,Alberto Moreno Pérez,Liverpool,Left Back,DEF,1299,23,32,0.01396,0.719,0.0177
+20641.0,Connor Wickham,Crystal Palace,Center Forward,FWD,520,23,21,0.02463,1.095,0.0442
+3598.0,Wilfried Guemiand Bony,Manchester City,Center Forward,FWD,527,23,26,0.02432,0.885,0.0436
+3290.0,Federico Fernández,Swansea City,Right Center Back,DEF,1447,23,32,0.00173,0.719,0.0159
+3293.0,Jesse Lingard,Manchester United,Right Wing,MID,816,23,25,0.01956,0.92,0.0282
+27853.0,Mauro Matías Zárate,West Ham United,Right Wing,MID,386,23,15,0.04218,1.533,0.0596
+4587.0,Matteo Darmian,Manchester United,Right Back,DEF,860,23,28,0.01185,0.821,0.0267
+11117.0,Scott Sinclair,Aston Villa,Left Wing,MID,498,23,26,0.03892,0.885,0.0462
+3089.0,Kevin De Bruyne,Manchester City,Center Attacking Midfield,MID,1262,23,25,0.01436,0.92,0.0182
+3957.0,César Azpilicueta Tanco,Chelsea,Left Back,DEF,1610,22,37,0.00582,0.595,0.0137
+3683.0,Tom Cleverley,Everton,Left Wing,MID,893,22,22,0.02226,1.0,0.0246
+3340.0,Kyle Naughton,Swansea City,Right Back,DEF,1067,22,27,0.01235,0.815,0.0206
+31296.0,Sébastien Aymar Bassong Nguena,Norwich City,Left Center Back,DEF,672,22,32,0.0079,0.688,0.0327
+3538.0,Wayne Mark Rooney,Manchester United,Center Forward,FWD,1281,22,28,0.01186,0.786,0.0172
+3381.0,Nemanja Matić,Chelsea,Left Defensive Midfield,MID,1511,22,33,0.00944,0.667,0.0146
+4346.0,Gilbert Gianelli Imbula Wanga,Stoke City,Left Defensive Midfield,MID,812,22,14,0.02322,1.571,0.0271
+3344.0,Andrew Surman,AFC Bournemouth,Center Defensive Midfield,MID,1951,22,38,0.00482,0.579,0.0113
+4631.0,Leon Britton,Swansea City,Center Defensive Midfield,MID,917,22,25,0.01536,0.88,0.024
+3272.0,Oriol Romeu Vidal,Southampton,Left Defensive Midfield,MID,722,22,29,0.01802,0.759,0.0305
+3085.0,Glenn Murray,AFC Bournemouth,Center Forward,FWD,275,21,21,0.05754,1.0,0.0764
+28559.0,Enner Remberto Valencia Lastra,West Ham United,Center Forward,MID,363,21,19,0.04211,1.105,0.0579
+7780.0,Lucas Pezzini Leiva,Liverpool,Center Defensive Midfield,MID,1195,21,27,0.00943,0.778,0.0176
+3265.0,José Luis Sanmartín Mato,Stoke City,Center Forward,FWD,445,21,22,0.02642,0.955,0.0472
+4317.0,Kevin Mirallas,Everton,Left Wing,MID,431,21,23,0.03807,0.913,0.0487
+9638.0,Jack Grealish,Aston Villa,Center Attacking Midfield,MID,412,21,16,0.04423,1.312,0.051
+3345.0,Charlie Daniels,AFC Bournemouth,Left Back,DEF,1726,20,37,0.00772,0.541,0.0116
+11012.0,Jonathan Grant Evans,West Bromwich Albion,Left Center Back,DEF,730,20,30,0.01388,0.667,0.0274
+10783.0,Lee Cattermole,Sunderland,Right Center Midfield,MID,806,20,31,0.01023,0.645,0.0248
+40118.0,Ikechi Anya,Watford,Left Back,DEF,690,20,28,0.02021,0.714,0.029
+3576.0,Martin Olsson,Norwich City,Left Back,DEF,493,20,24,0.02973,0.833,0.0406
+3612.0,Ashley Young,Manchester United,Right Back,DEF,635,20,18,0.02789,1.111,0.0315
+3518.0,Leighton Baines,Everton,Left Back,DEF,750,20,18,0.01609,1.111,0.0267
+16295.0,Dame N''Doye,Sunderland,Right Midfield,MID,249,20,11,0.05215,1.818,0.0803
+3645.0,Gary Cahill,Chelsea,Right Center Back,DEF,591,20,23,0.00893,0.87,0.0338
+5540.0,Valon Behrami,Watford,Left Center Midfield,MID,428,19,21,0.01866,0.905,0.0444
+13846.0,Jan Kirchhoff,Sunderland,Center Defensive Midfield,MID,460,19,15,0.01541,1.267,0.0413
+9452.0,Gary O''Neil,Norwich City,Right Defensive Midfield,MID,805,19,27,0.01024,0.704,0.0236
+4751.0,Michael Carrick,Manchester United,Right Center Midfield,MID,1381,19,27,0.00677,0.704,0.0138
+5489.0,Mile Jedinak,Crystal Palace,Left Defensive Midfield,MID,582,19,27,0.01233,0.704,0.0326
+3671.0,José Leonardo Ulloa,Leicester City,Right Center Forward,FWD,473,19,29,0.02694,0.655,0.0402
+40121.0,Philipp Wollscheid,Stoke City,Left Center Back,DEF,942,19,31,0.00262,0.613,0.0202
+28100.0,Ramires Santos do Nascimento,Chelsea,Right Defensive Midfield,MID,319,19,12,0.04169,1.583,0.0596
+3596.0,Gareth McAuley,West Bromwich Albion,Right Center Back,DEF,626,18,34,0.00846,0.529,0.0288
+3600.0,Morgan Schneiderlin,Manchester United,Right Defensive Midfield,MID,1324,18,29,0.00631,0.621,0.0136
+3616.0,Callum Wilson,AFC Bournemouth,Center Forward,FWD,231,18,13,0.05957,1.385,0.0779
+4045.0,Leroy Fer,Swansea City,Left Center Midfield,MID,423,18,11,0.02991,1.636,0.0426
+22281.0,Duncan Watmore,Sunderland,Right Wing,MID,284,18,23,0.0527,0.783,0.0634
+40123.0,Robert Huth,Leicester City,Left Center Back,DEF,483,18,35,0.00302,0.514,0.0373
+3288.0,Miguel Ángel Britos Cabrera,Watford,Left Center Back,DEF,568,18,24,0.00928,0.75,0.0317
+10967.0,Robert Brady,Norwich City,Left Back,DEF,1225,18,36,0.00761,0.5,0.0147
+26696.0,Arouna Koné,Everton,Left Wing,MID,731,18,25,0.02043,0.72,0.0246
+11992.0,Kevin Linford Stewart,Liverpool,Center Defensive Midfield,MID,434,18,7,0.02273,2.571,0.0415
+3311.0,Daley Blind,Manchester United,Left Center Back,DEF,1738,17,35,0.0037,0.486,0.0098
+3254.0,Florian Thauvin,Newcastle United,Left Wing,MID,249,17,13,0.0629,1.308,0.0683
+42699.0,Gabriel Imuetinyan Agbonlahor,Aston Villa,Center Forward,FWD,253,17,15,0.04081,1.133,0.0672
+3973.0,Àngel Rangel Zaragoza,Swansea City,Right Back,DEF,1172,17,23,0.00628,0.739,0.0145
+4747.0,Divock Okoth Origi,Liverpool,Center Forward,FWD,262,17,16,0.05325,1.062,0.0649
+3726.0,Gerard Deulofeu Lázaro,Everton,Right Wing,MID,739,17,26,0.01762,0.654,0.023
+3843.0,Angelo Obinze Ogbonna,West Ham United,Left Center Back,DEF,733,17,27,0.00465,0.63,0.0232
+3626.0,Ben Watson,Watford,Left Defensive Midfield,MID,1124,17,35,0.00914,0.486,0.0151
+3635.0,Jordon Ibe,Liverpool,Right Wing,MID,637,17,27,0.02331,0.63,0.0267
+3583.0,Ashley Westwood,Aston Villa,Right Center Midfield,MID,1414,16,32,0.00731,0.5,0.0113
+3525.0,Alex Oxlade-Chamberlain,Arsenal,Right Wing,MID,561,16,22,0.02292,0.727,0.0285
+16003.0,Fernando Francisco Reges,Manchester City,Right Defensive Midfield,MID,802,16,24,0.01027,0.667,0.02
+3483.0,Mamadou Sakho,Liverpool,Left Center Back,DEF,1019,16,22,0.00529,0.727,0.0157
+3463.0,Junior Stanislas,AFC Bournemouth,Left Midfield,MID,794,16,21,0.01887,0.762,0.0202
+3643.0,Phil Bardsley,Stoke City,Right Back,DEF,264,16,11,0.02568,1.455,0.0606
+42902.0,Adam Johnson,Sunderland,Right Wing,MID,591,16,19,0.02182,0.842,0.0271
+9554.0,Steven Fletcher,Sunderland,Center Forward,FWD,377,16,16,0.03329,1.0,0.0424
+3897.0,Pedro Mba Obiang Avomo,West Ham United,Center Defensive Midfield,MID,404,16,23,0.02661,0.696,0.0396
+3813.0,Wes Morgan,Leicester City,Right Center Back,DEF,593,16,38,0.0073,0.421,0.027
+7110.0,Bacary Sagna,Manchester City,Right Back,DEF,1452,16,28,0.00509,0.571,0.011
+3316.0,James Tomkins,West Ham United,Right Center Back,DEF,645,16,25,0.00674,0.64,0.0248
+3329.0,Cédric Ricardo Alves Soares,Southampton,Right Back,DEF,843,16,24,0.01208,0.667,0.019
+3321.0,Patrick van Aanholt,Sunderland,Left Back,DEF,1034,16,33,0.01179,0.485,0.0155
+3297.0,Andros Townsend,Newcastle United,Right Wing,MID,549,16,16,0.0234,1.0,0.0291
+3196.0,Wahbi Khazri,Sunderland,Left Midfield,MID,392,16,14,0.02974,1.143,0.0408
+3407.0,Scott Dann,Crystal Palace,Right Center Back,DEF,824,15,35,0.00767,0.429,0.0182
+11386.0,Santiago Cazorla González,Arsenal,Left Defensive Midfield,MID,1193,15,15,0.0119,1.0,0.0126
+3693.0,Damien Delaney,Crystal Palace,Left Center Back,DEF,801,15,32,0.00427,0.469,0.0187
+10503.0,Billy Jones,Sunderland,Right Back,DEF,516,15,24,0.01566,0.625,0.0291
+10958.0,Chris Smalling,Manchester United,Right Center Back,DEF,1159,15,35,0.00467,0.429,0.0129
+4597.0,Fabian Delph,Manchester City,Left Defensive Midfield,MID,483,15,17,0.02446,0.882,0.0311
+9533.0,Leandro Bacuna,Aston Villa,Right Back,DEF,1127,15,31,0.00912,0.484,0.0133
+3083.0,Heung-Min Son,Tottenham Hotspur,Right Wing,MID,539,15,28,0.02205,0.536,0.0278
+16072.0,Vurnon Anita,Newcastle United,Right Center Midfield,MID,834,15,28,0.00642,0.536,0.018
+3296.0,Marouane Fellaini-Bakkioui,Manchester United,Right Center Midfield,MID,619,15,18,0.01625,0.833,0.0242
+5475.0,John Michael Nchekwube Obinna,Chelsea,Right Defensive Midfield,MID,1101,15,25,0.00756,0.6,0.0136
+3644.0,Ashley Williams,Swansea City,Left Center Back,DEF,1565,15,36,0.00348,0.417,0.0096
+19362.0,Rudy Gestede,Aston Villa,Center Forward,FWD,684,14,32,0.00777,0.438,0.0205
+3511.0,Héctor Bellerín Moruno,Arsenal,Right Back,DEF,1676,14,36,0.00618,0.389,0.0084
+3504.0,Ruben Loftus-Cheek,Chelsea,Center Attacking Midfield,MID,294,14,13,0.03256,1.077,0.0476
+20046.0,Phil Jagielka,Everton,Left Center Back,DEF,837,14,21,0.00063,0.667,0.0167
+4347.0,Jordan Amavi,Aston Villa,Left Back,DEF,416,14,10,0.01917,1.4,0.0337
+5836.0,Bryan Oviedo,Everton,Left Back,DEF,431,14,14,0.01637,1.0,0.0325
+3669.0,Virgil van Dijk,Southampton,Left Center Back,DEF,1104,14,34,0.00313,0.412,0.0127
+42900.0,Cheik Ismaël Tioté,Newcastle United,Right Center Midfield,MID,700,14,20,0.01171,0.7,0.02
+3529.0,Daniel Andre Sturridge,Liverpool,Center Forward,FWD,421,14,14,0.02782,1.0,0.0333
+3480.0,Geoff Cameron,Stoke City,Right Center Back,DEF,967,14,30,0.00557,0.467,0.0145
+6746.0,Gabriel Armando de Abreu,Arsenal,Right Center Back,DEF,884,14,21,0.00388,0.667,0.0158
+3490.0,James Morrison,West Bromwich Albion,Left Center Midfield,MID,606,13,18,0.01344,0.722,0.0215
+3568.0,Mohamed Naser Elsayed Elneny,Arsenal,Right Defensive Midfield,MID,692,13,11,0.01461,1.182,0.0188
+3270.0,Danny Simpson,Leicester City,Right Back,DEF,687,13,30,0.01332,0.433,0.0189
+3263.0,Craig Cathcart,Watford,Right Center Back,DEF,770,13,35,0.00319,0.371,0.0169
+3471.0,Dejan Lovren,Liverpool,Left Center Back,DEF,823,13,24,0.00299,0.542,0.0158
+3658.0,DeAndre Yedlin,Sunderland,Right Back,DEF,474,13,23,0.00506,0.565,0.0274
+3608.0,Simon Francis,AFC Bournemouth,Right Back,DEF,1845,13,38,0.00456,0.342,0.007
+3651.0,Matt Targett,Southampton,Left Back,DEF,391,13,14,0.01318,0.929,0.0332
+3602.0,Faustino Marcos Alberto Rojo,Manchester United,Left Back,DEF,630,13,16,0.00992,0.812,0.0206
+11333.0,Adama Traoré Diarra,Aston Villa,Right Wing,MID,103,13,10,0.08683,1.3,0.1262
+13248.0,Eunan O''Kane,AFC Bournemouth,Right Center Midfield,MID,350,13,16,0.01986,0.812,0.0371
+3590.0,Rhu-endly Martina,Southampton,Right Back,DEF,399,12,15,0.01293,0.8,0.0301
+4724.0,Glen Johnson,Stoke City,Right Back,DEF,923,12,25,0.00687,0.48,0.013
+4629.0,José Ramiro Funes Mori,Everton,Left Center Back,DEF,1103,12,28,0.00666,0.429,0.0109
+3960.0,José Miguel da Rocha Fonte,Southampton,Right Center Back,DEF,1328,12,37,0.00335,0.324,0.009
+3306.0,Nathan Aké,Watford,Left Back,DEF,554,12,24,0.0095,0.5,0.0217
+3044.0,Chancel Mbemba Mangulu,Newcastle United,Right Center Back,DEF,950,12,33,0.00566,0.364,0.0126
+3532.0,Jordan Brian Henderson,Liverpool,Right Center Midfield,MID,891,12,17,0.00711,0.706,0.0135
+16890.0,John O''Shea,Sunderland,Left Center Back,DEF,406,12,28,0.00355,0.429,0.0296
+3057.0,Jonjo Shelvey,Swansea City,Left Center Midfield,MID,1384,12,30,0.00675,0.4,0.0087
+3812.0,Christian Fuchs,Leicester City,Left Back,DEF,934,12,32,0.00264,0.375,0.0128
+4807.0,Cameron Jerome,Norwich City,Center Forward,FWD,555,11,34,0.01461,0.324,0.0198
+3065.0,Paul Dummett,Newcastle United,Left Back,DEF,533,11,23,0.0063,0.478,0.0206
+8251.0,Marco van Ginkel,Stoke City,Right Defensive Midfield,MID,366,11,17,0.02159,0.647,0.0301
+9463.0,Alexander Banor Tettey,Norwich City,Right Defensive Midfield,MID,859,11,23,0.00624,0.478,0.0128
+3469.0,Bakary Sako,Crystal Palace,Right Wing,MID,470,11,19,0.0171,0.579,0.0234
+3631.0,Nathan Dyer,Leicester City,Right Center Forward,MID,127,11,13,0.06082,0.846,0.0866
+15892.0,Jordon Mutch,Crystal Palace,Center Attacking Midfield,MID,347,11,20,0.02002,0.55,0.0317
+13200.0,Oluwaseyi Babajide Ojo,Liverpool,Right Midfield,MID,187,11,8,0.04861,1.375,0.0588
+3308.0,Kieran Trippier,Tottenham Hotspur,Right Back,DEF,261,11,6,0.0225,1.833,0.0421
+3278.0,Benik Afobe,AFC Bournemouth,Center Forward,FWD,279,11,15,0.03414,0.733,0.0394
+40127.0,Ryan Mason,Tottenham Hotspur,Left Defensive Midfield,MID,520,11,22,0.01009,0.5,0.0212
+27053.0,Alexandre Dimitri Song-Billong,West Ham United,Center Defensive Midfield,MID,421,11,12,0.01452,0.917,0.0261
+3341.0,Steve Cook,AFC Bournemouth,Left Center Back,DEF,1324,10,36,0.00262,0.278,0.0076
+4840.0,Massadio Haïdara,Newcastle United,Left Back,DEF,243,10,7,0.03131,1.429,0.0412
+30289.0,Papiss Demba Cissé,Newcastle United,Center Forward,FWD,495,10,21,0.01819,0.476,0.0202
+3086.0,Ben Davies,Tottenham Hotspur,Left Back,DEF,599,10,17,0.00882,0.588,0.0167
+40124.0,Rickie Lambert,West Bromwich Albion,Right Center Forward,FWD,309,10,19,0.00752,0.526,0.0324
+3318.0,Marcus Rashford,Manchester United,Center Forward,FWD,295,10,11,0.02938,0.909,0.0339
+15996.0,Éderzito António Macedo Lopes,Swansea City,Center Forward,FWD,109,10,13,0.04711,0.769,0.0917
+3041.0,Ciaran Clark,Aston Villa,Left Center Back,DEF,457,10,17,0.00523,0.588,0.0219
+24380.0,Tetchi Jores Charlemagne Ulrich Okore,Aston Villa,Right Center Back,DEF,275,10,12,0.01163,0.833,0.0364
+4417.0,Ola Toivonen,Sunderland,Center Attacking Midfield,MID,224,10,12,0.02184,0.833,0.0446
+3666.0,Robert Kenedy Nunes do Nascimento,Chelsea,Left Back,MID,332,10,14,0.01809,0.714,0.0301
+9551.0,Callum McManaman,West Bromwich Albion,Right Midfield,MID,122,10,12,0.05624,0.833,0.082
+3328.0,James Ward-Prowse,Southampton,Right Center Midfield,MID,681,9,33,0.01062,0.273,0.0132
+3052.0,Pablo Javier Zabaleta Girod,Manchester City,Right Back,DEF,540,9,13,0.00973,0.692,0.0167
+36983.0,Juan Carlos Paredes Reasco,Watford,Right Back,DEF,294,9,17,0.01404,0.529,0.0306
+3665.0,Andrew Philip King,Leicester City,Right Defensive Midfield,MID,405,9,25,0.01505,0.36,0.0222
+3456.0,Kurt Happy Zouma,Chelsea,Right Center Back,DEF,578,9,23,0.0009,0.391,0.0156
+3569.0,Daniel Nii Tackie Mensah Welbeck,Arsenal,Center Forward,FWD,203,9,11,0.0324,0.818,0.0443
+3475.0,Per Mertesacker,Arsenal,Right Center Back,DEF,1015,9,24,0.00148,0.375,0.0089
+3262.0,Łukasz Fabiański,Swansea City,Goalkeeper,GK,627,9,37,0.00236,0.243,0.0144
+16181.0,Jordy Clasie,Southampton,Left Defensive Midfield,MID,631,9,22,0.00537,0.409,0.0143
+18751.0,Jack Rodwell,Sunderland,Left Center Midfield,MID,422,9,22,0.01228,0.409,0.0213
+3391.0,Rolando Aarons,Newcastle United,Left Back,DEF,149,9,10,0.04217,0.9,0.0604
+4738.0,Lee Tomlin,AFC Bournemouth,Center Attacking Midfield,MID,133,9,6,0.03404,1.5,0.0677
+5264.0,Guillermo Varela Olivera,Manchester United,Right Back,DEF,138,9,4,0.02112,2.25,0.0652
+5685.0,Carlos Alberto Sánchez Moreno,Aston Villa,Center Defensive Midfield,MID,683,9,20,0.00918,0.45,0.0132
+20527.0,Jonas Olsson,West Bromwich Albion,Left Center Back,DEF,407,8,28,0.00126,0.286,0.0197
+19288.0,Martín Gastón Demichelis,Manchester City,Right Center Back,DEF,444,8,20,0.00538,0.4,0.018
+20302.0,Gaël Clichy,Manchester City,Left Back,DEF,624,8,14,0.00543,0.571,0.0128
+3267.0,Luis Antonio Valencia Mosquera,Manchester United,Right Back,DEF,582,8,14,0.0107,0.571,0.0137
+22594.0,Matt Jarvis,Norwich City,Left Midfield,MID,360,8,22,0.01423,0.364,0.0222
+21212.0,Russell Martin,Norwich City,Right Center Back,DEF,944,8,30,0.00159,0.267,0.0085
+3650.0,Daryl Janmaat,Newcastle United,Right Back,DEF,1257,8,32,0.00276,0.25,0.0064
+20285.0,Joleon Lescott,Aston Villa,Left Center Back,DEF,752,8,32,0.00198,0.25,0.0106
+6950.0,Alberto Paloschi,Swansea City,Center Forward,FWD,236,8,10,0.02462,0.8,0.0339
+3389.0,Eliaquim Mangala,Manchester City,Left Center Back,DEF,846,8,23,0.00862,0.348,0.0095
+4746.0,Younes Kaboul,Sunderland,Left Center Back,DEF,515,8,23,0.00101,0.348,0.0155
+6631.0,Mathieu Flamini,Arsenal,Right Defensive Midfield,MID,526,8,16,0.00458,0.5,0.0152
+26207.0,Fabricio Coloccini,Newcastle United,Left Center Back,DEF,675,8,26,0.00645,0.308,0.0119
+4831.0,Nacer Chadli,Tottenham Hotspur,Left Wing,MID,445,8,28,0.01589,0.286,0.018
+42703.0,Mikel Arteta Amatriain,Arsenal,Right Center Midfield,MID,100,7,9,0.0196,0.778,0.07
+40130.0,Victor Chinedu Anichebe,West Bromwich Albion,Center Forward,FWD,153,7,10,0.02486,0.7,0.0458
+6560.0,Marc Muniesa Martínez,Stoke City,Left Center Back,DEF,458,7,15,0.00317,0.467,0.0153
+4828.0,Adlène Guédioura,Watford,Right Midfield,MID,276,7,15,0.01813,0.467,0.0254
+3966.0,Charlie Austin,Southampton,Center Forward,FWD,69,7,7,0.06615,1.0,0.1014
+4217.0,Danny Graham,Sunderland,Right Wing,MID,102,7,10,0.04203,0.7,0.0686
+3388.0,Jack Wilshere,Arsenal,Center Attacking Midfield,MID,86,7,3,0.05645,2.333,0.0814
+3482.0,James Collins,West Ham United,Right Center Back,DEF,388,7,19,0.0061,0.368,0.018
+3654.0,Daniel William John Ings,Liverpool,Left Wing,FWD,100,7,6,0.05037,1.167,0.07
+128704.0,Emmanuel Emenike,West Ham United,Center Forward,FWD,194,7,13,0.02031,0.538,0.0361
+3445.0,Radamel Falcao García Zárate,Chelsea,Center Forward,FWD,109,7,10,0.03272,0.7,0.0642
+3300.0,Maya Yoshida,Southampton,Left Center Back,DEF,410,7,20,0.00579,0.35,0.0171
+20005.0,Toby Alderweireld,Tottenham Hotspur,Right Center Back,DEF,1798,7,38,0.00194,0.184,0.0039
+20253.0,Samir Nasri,Manchester City,Left Wing,MID,452,7,12,0.01359,0.583,0.0155
+3541.0,Chris Brunt,West Bromwich Albion,Left Back,DEF,549,7,22,0.0044,0.318,0.0128
+9628.0,James Grant Chester,West Bromwich Albion,Left Back,DEF,241,7,13,0.01309,0.538,0.029
+9930.0,Ryan Bennett,Norwich City,Right Center Back,DEF,398,7,22,0.00128,0.318,0.0176
+16334.0,Graham Dorrans,Norwich City,Right Center Midfield,MID,720,7,21,0.00606,0.333,0.0097
+26699.0,Emmanuel Adebayor,Crystal Palace,Center Forward,FWD,291,6,12,0.01417,0.5,0.0206
+6623.0,Loïc Rémy,Chelsea,Center Forward,FWD,132,6,13,0.04042,0.462,0.0455
+10499.0,Ivo Daniel Ferreira Mendonca Pinto,Norwich City,Right Back,DEF,316,6,10,0.01315,0.6,0.019
+9626.0,Tommy Elphick,AFC Bournemouth,Right Center Back,DEF,364,6,12,0.00393,0.5,0.0165
+3326.0,Chung-Yong Lee,Crystal Palace,Left Wing,MID,185,6,13,0.02581,0.462,0.0324
+3708.0,Kelechi Promise Iheanacho,Manchester City,Right Center Forward,FWD,405,6,26,0.01046,0.231,0.0148
+12325.0,Abdul Rahman Baba,Chelsea,Left Back,DEF,509,6,15,0.01215,0.4,0.0118
+27146.0,Aly Cissokho,Aston Villa,Left Back,DEF,649,6,18,0.00523,0.333,0.0092
+7121.0,Sandro Ranieri Guimarães Cordeiro,West Bromwich Albion,Left Defensive Midfield,MID,116,6,10,0.02431,0.6,0.0517
+8061.0,Siem Stefan de Jong,Newcastle United,Center Attacking Midfield,MID,189,6,18,0.02077,0.333,0.0317
+5617.0,Sebastian Larsson,Sunderland,Right Center Midfield,MID,211,6,18,0.01472,0.333,0.0284
+6330.0,Adnan Januzaj,Manchester United,Center Attacking Midfield,MID,62,6,5,0.07118,1.2,0.0968
+40366.0,Wes Brown,Sunderland,Left Center Back,DEF,141,6,6,0.02075,1.0,0.0426
+3309.0,Sebastian Prödl,Watford,Right Center Back,DEF,380,6,21,0.00134,0.286,0.0158
+9461.0,Timm Klose,Norwich City,Left Center Back,DEF,175,6,10,0.00755,0.6,0.0343
+42947.0,Leon Osman,Everton,Left Center Midfield,MID,154,6,9,0.02472,0.667,0.039
+13286.0,Lamine Koné,Sunderland,Right Center Back,DEF,284,6,15,0.00812,0.4,0.0211
+20287.0,John Terry,Chelsea,Left Center Back,DEF,683,6,24,0.00077,0.25,0.0088
+18872.0,Martin Škrtel,Liverpool,Right Center Back,DEF,928,6,22,0.0037,0.273,0.0065
+16932.0,Youssouf Chafiq Mulumbu Ngangu,Norwich City,Left Defensive Midfield,MID,136,6,7,0.03343,0.857,0.0441
+3725.0,José Holebas,Watford,Left Back,DEF,411,5,11,0.00805,0.455,0.0122
+50245.0,Marouane Chamakh,Crystal Palace,Center Forward,FWD,96,5,10,0.0361,0.5,0.0521
+3461.0,Petr Čech,Arsenal,Goalkeeper,GK,556,5,34,0.00094,0.147,0.009
+3647.0,Alex Iwobi,Arsenal,Left Wing,MID,415,5,12,0.01022,0.417,0.012
+21254.0,Carl Jenkinson,West Ham United,Right Back,DEF,505,5,20,0.00476,0.25,0.0099
+2956.0,Bertrand Isidore Traoré,Chelsea,Center Forward,FWD,172,5,10,0.01757,0.5,0.0291
+43627.0,Jordi Gómez García-Penche,Sunderland,Left Center Midfield,MID,143,5,5,0.02051,1.0,0.035
+3522.0,Heurelho da Silva Gomes,Watford,Goalkeeper,GK,460,5,38,0.00112,0.132,0.0109
+3528.0,Kieran Gibbs,Arsenal,Left Back,MID,195,5,15,0.01133,0.333,0.0256
+9593.0,Lewis Grabban,AFC Bournemouth,Center Forward,FWD,380,5,21,0.00622,0.238,0.0132
+13573.0,Yann Kermorgant,AFC Bournemouth,Center Forward,FWD,66,5,7,0.02655,0.714,0.0758
+28782.0,Ritchie De Laet,Leicester City,Right Back,DEF,193,5,12,0.01591,0.417,0.0259
+3096.0,Rob Elliot,Newcastle United,Goalkeeper,GK,326,5,21,0.00435,0.238,0.0153
+3099.0,Hugo Lloris,Tottenham Hotspur,Goalkeeper,GK,759,5,37,0.0007,0.135,0.0066
+4808.0,Andre Wisdom,Norwich City,Right Back,DEF,286,5,10,0.01756,0.5,0.0175
+4817.0,Joe Ledley,Crystal Palace,Left Center Midfield,MID,313,5,19,0.01326,0.263,0.016
+4726.0,Kyle Bartley,Swansea City,Right Center Back,DEF,115,5,5,0.02447,1.0,0.0435
+6300.0,Sebastián Coates Nión,Sunderland,Right Center Back,DEF,294,5,16,0.00478,0.312,0.017
+9539.0,Vito Mannone,Sunderland,Goalkeeper,GK,294,5,19,0.00478,0.263,0.017
+23488.0,Mario Suárez Mata,Watford,Right Defensive Midfield,MID,371,5,15,0.00885,0.333,0.0135
+3101.0,Vincent Kompany,Manchester City,Right Center Back,DEF,573,5,14,0.00588,0.357,0.0087
+6695.0,Juan Miguel Jiménez López,Southampton,Left Wing,MID,64,5,12,0.05903,0.417,0.0781
+9641.0,Fraizer Campbell,Crystal Palace,Center Forward,FWD,104,4,11,0.01902,0.364,0.0385
+10457.0,Patrick Bamford,Norwich City,Center Forward,FWD,129,4,13,0.00974,0.308,0.031
+3586.0,Samuel Mark Byram,West Ham United,Right Back,DEF,90,4,4,0.0129,1.0,0.0444
+3339.0,Asmir Begović,Chelsea,Goalkeeper,GK,204,4,17,0.00234,0.235,0.0196
+3722.0,Steven Taylor,Newcastle United,Right Center Back,DEF,271,4,10,0.00182,0.4,0.0148
+3312.0,Demarai Gray,Leicester City,Left Midfield,MID,105,4,12,0.02629,0.333,0.0381
+10007.0,Jon Flanagan,Liverpool,Right Back,DEF,242,4,5,0.00937,0.8,0.0165
+13448.0,Bradley Shaun Smith,Liverpool,Left Back,DEF,122,4,4,0.02335,1.0,0.0328
+22702.0,Jonathan Leko,West Bromwich Albion,Right Wing,MID,90,4,5,0.02124,0.8,0.0444
+4040.0,Peter Crouch,Stoke City,Center Forward,FWD,176,4,11,0.01723,0.364,0.0227
+7745.0,Steven Berghuis,Watford,Right Midfield,MID,117,4,9,0.02414,0.444,0.0342
+25351.0,Alexandre Rodrigues da Silva,Chelsea,Center Forward,FWD,39,4,2,0.02244,2.0,0.1026
+20230.0,Gökhan İnler,Leicester City,Right Defensive Midfield,MID,93,4,5,0.02885,0.8,0.043
+75899.0,Kevin Toner,Aston Villa,Left Center Back,DEF,92,4,4,0.0045,1.0,0.0435
+3291.0,Joe Hart,Manchester City,Goalkeeper,GK,451,4,35,0.00114,0.114,0.0089
+20543.0,Nikica Jelavić,West Ham United,Center Forward,FWD,92,4,13,0.02089,0.308,0.0435
+40125.0,Steven Pienaar,Everton,Left Wing,MID,87,3,4,0.02178,0.75,0.0345
+42701.0,Kieran Richardson,Aston Villa,Left Back,DEF,264,3,11,0.00187,0.273,0.0114
+42899.0,Gabriel Antoine Obertan,Newcastle United,Left Wing,MID,113,3,5,0.01083,0.6,0.0265
+5108.0,Glyn Oliver Myhill,West Bromwich Albion,Goalkeeper,GK,288,3,23,0.00173,0.13,0.0104
+3539.0,Simon Mignolet,Liverpool,Goalkeeper,GK,542,3,34,0.00446,0.088,0.0055
+3509.0,Thibaut Courtois,Chelsea,Goalkeeper,GK,347,3,23,0.00676,0.13,0.0086
+3314.0,Phil Jones,Manchester United,Right Center Back,DEF,253,3,10,0.00901,0.3,0.0119
+3731.0,Adrian Mariappa,Crystal Palace,Right Center Back,DEF,97,3,3,0.00432,1.0,0.0309
+3476.0,Muhamed Bešić,Everton,Right Center Midfield,MID,339,3,12,0.00962,0.25,0.0088
+3442.0,El-Hadji Baye Oumar Niasse,Everton,Right Center Forward,FWD,47,3,5,0.02011,0.6,0.0638
+43695.0,Brede Hangeland,Crystal Palace,Left Center Back,DEF,191,3,7,0.00701,0.429,0.0157
+3465.0,Timothy Evans Fosu-Mensah,Manchester United,Right Center Back,DEF,94,3,8,0.00442,0.375,0.0319
+6652.0,Jordi Amat Maas,Swansea City,Right Center Back,DEF,143,3,8,0.00317,0.375,0.021
+3382.0,Luke Shaw,Manchester United,Left Back,DEF,260,3,5,0.01224,0.6,0.0115
+6871.0,Costel Fane Pantilimon,Sunderland,Goalkeeper,GK,287,3,17,0.00173,0.176,0.0105
+4804.0,Bradley Johnson,Norwich City,Left Midfield,MID,85,3,4,0.02216,0.75,0.0353
+10779.0,Cameron Borthwick-Jackson,Manchester United,Left Back,DEF,343,3,10,0.00147,0.3,0.0087
+12608.0,Bradley Guzan,Aston Villa,Goalkeeper,GK,416,3,28,0.00347,0.107,0.0072
+3611.0,Kevin Wimmer,Tottenham Hotspur,Left Center Back,DEF,442,3,10,0.00116,0.3,0.0068
+3448.0,Martin Kelly,Crystal Palace,Right Back,DEF,320,3,13,0.00442,0.231,0.0094
+23742.0,Vadis Odjidja-Ofoe,Norwich City,Center Attacking Midfield,MID,168,3,10,0.01287,0.3,0.0179
+3081.0,Jamaal Lascelles,Newcastle United,Left Center Back,DEF,369,3,18,0.00388,0.167,0.0081
+38412.0,Kolo Habib Touré,Liverpool,Right Center Back,DEF,367,3,14,0.00138,0.214,0.0082
+28247.0,Libor Kozák,Aston Villa,Center Forward,FWD,94,3,4,0.02055,0.75,0.0319
+9629.0,Stephen Kingsley,Swansea City,Left Back,DEF,116,3,4,0.01746,0.75,0.0259
+3685.0,Jay Rodriguez,Southampton,Center Attacking Midfield,MID,127,3,12,0.0226,0.25,0.0236
+11124.0,Steven Whittaker,Norwich City,Right Back,DEF,296,3,8,0.01089,0.375,0.0101
+13848.0,Marc Wilson,Stoke City,Right Center Back,DEF,91,3,4,0.00453,0.75,0.033
+3713.0,Calum Chambers,Arsenal,Right Center Back,MID,170,3,12,0.00774,0.25,0.0176
+20951.0,Jordan Lyden,Aston Villa,Right Wing Back,DEF,69,2,4,0.01564,0.5,0.029
+19847.0,Alessandro Diamanti,Watford,Left Wing,MID,53,2,3,0.03071,0.667,0.0377
+20201.0,Maarten Stekelenburg,Southampton,Goalkeeper,GK,270,2,17,0.00183,0.118,0.0074
+22058.0,Connor Steven Randall,Liverpool,Right Back,DEF,72,2,3,0.01518,0.667,0.0278
+3495.0,Joe Gomez,Liverpool,Left Back,DEF,211,2,5,0.01057,0.4,0.0095
+42946.0,Guangtai Jiang,Everton,Right Back,DEF,95,2,5,0.01239,0.4,0.0211
+20074.0,Artur Boruc,AFC Bournemouth,Goalkeeper,GK,457,2,32,0.00113,0.062,0.0044
+3537.0,Jack Butland,Stoke City,Goalkeeper,GK,531,2,31,0.00098,0.065,0.0038
+3656.0,Alex Pritchard,West Bromwich Albion,Right Midfield,MID,30,2,3,0.04248,0.667,0.0667
+5110.0,Henri Saivet,Newcastle United,Right Defensive Midfield,MID,61,2,4,0.02801,0.5,0.0328
+5689.0,Juan Guillermo Cuadrado Bello,Chelsea,Right Wing,MID,10,2,1,0.06371,2.0,0.2
+40218.0,Sylvain Distin,AFC Bournemouth,Left Center Back,DEF,352,2,11,0.00667,0.182,0.0057
+23635.0,John Ruddy,Norwich City,Goalkeeper,GK,480,2,27,0.00108,0.074,0.0042
+3165.0,Emmanuel Rivière,Newcastle United,Center Forward,FWD,30,2,3,0.02581,0.667,0.0667
+3310.0,Tom Carroll,Tottenham Hotspur,Left Defensive Midfield,MID,330,2,19,0.00152,0.105,0.0061
+4276.0,David Ospina Ramírez,Arsenal,Goalkeeper,GK,61,2,4,0.01702,0.5,0.0328
+4035.0,Ryan Shawcross,Stoke City,Right Center Back,DEF,440,2,20,0.00117,0.1,0.0045
+7848.0,Matt Miazga,Chelsea,Right Center Back,DEF,77,2,2,0.00513,1.0,0.026
+6846.0,Andreas Hoelgebaum Pereira,Manchester United,Right Wing,MID,58,2,4,0.02896,0.5,0.0345
+16027.0,Kevin Mbabu,Newcastle United,Left Back,DEF,35,2,3,0.02382,0.667,0.0571
+3623.0,Adrián San Miguel del Castillo,West Ham United,Goalkeeper,GK,517,2,32,0.001,0.062,0.0039
+3652.0,Tom Davies,Everton,Center Attacking Midfield,MID,50,2,2,0.03186,1.0,0.04
+13042.0,Tim Howard,Everton,Goalkeeper,GK,429,2,25,0.0012,0.08,0.0047
+16309.0,Joel Robles Blázquez,Everton,Goalkeeper,GK,261,2,13,0.00532,0.154,0.0077
+20446.0,Shay Given,Stoke City,Goalkeeper,GK,34,1,3,0.0242,0.333,0.0294
+18404.0,José Ángel Crespo Rincón,Aston Villa,Right Center Back,DEF,22,1,1,0.02978,1.0,0.0455
+17276.0,Seydou Doumbia,Newcastle United,Center Forward,FWD,13,1,3,0.03601,0.333,0.0769
+5602.0,Cristian Gamboa Luna,West Bromwich Albion,Left Midfield,MID,16,1,1,0.03366,1.0,0.0625
+5556.0,Miguel Arturo Layún Prado,Watford,Left Midfield,MID,62,1,3,0.01683,0.333,0.0161
+4097.0,Matt Grimes,Swansea City,Left Center Midfield,MID,43,1,1,0.02121,1.0,0.0233
+4428.0,Mathieu Debuchy,Arsenal,Right Back,DEF,68,1,2,0.0158,0.5,0.0147
+3058.0,Javier Hernández Balcázar,Manchester United,Center Forward,FWD,14,1,1,0.01247,1.0,0.0714
+40453.0,Segundo Víctor Ibarbo Guerrero,Watford,Right Midfield,MID,27,1,4,0.02717,0.25,0.037
+42702.0,Modibo Maïga,West Ham United,Center Forward,FWD,17,1,3,0.03295,0.333,0.0588
+42901.0,Osazemwinde Peter Odemwingie,Stoke City,Right Wing,MID,57,1,5,0.0178,0.2,0.0175
+24743.0,Gary Hooper,Norwich City,Right Center Midfield,MID,5,1,2,0.04424,0.5,0.2
+27949.0,Juan Manuel Iturbe Arévalo,AFC Bournemouth,Left Midfield,MID,29,1,2,0.02625,0.5,0.0345
+9467.0,Timothy Michael Krul,Newcastle United,Goalkeeper,GK,145,1,8,0.00885,0.125,0.0069
+3815.0,Kasper Schmeichel,Leicester City,Goalkeeper,GK,621,1,38,0.00084,0.026,0.0016
+6296.0,Joe Dodoo,Leicester City,Right Midfield,MID,8,1,1,0.04075,1.0,0.125
+8520.0,Nabil Bentaleb,Tottenham Hotspur,Left Center Midfield,MID,88,1,5,0.00465,0.2,0.0114
+3468.0,Jordan Pickford,Sunderland,Goalkeeper,GK,35,1,2,0.00844,0.5,0.0286
+3479.0,Sam Field,West Bromwich Albion,Left Wing,MID,2,1,1,0.04839,1.0,0.5
+3619.0,Alex McCarthy,Crystal Palace,Goalkeeper,GK,106,1,7,0.00403,0.143,0.0094
+16067.0,Josh Onomah,Tottenham Hotspur,Right Wing,MID,51,1,8,0.00677,0.125,0.0196
+11295.0,Patrick Roberts,Manchester City,Left Midfield,MID,5,1,1,0.04424,1.0,0.2
+9648.0,Paddy McNair,Manchester United,Right Center Back,DEF,189,1,8,0.0025,0.125,0.0053
+9636.0,Rushian Hepburn-Murphy,Aston Villa,Left Center Forward,FWD,3,1,1,0.04693,1.0,0.3333
+10771.0,George Honeyman,Sunderland,Left Midfield,MID,7,1,1,0.04185,1.0,0.1429
+3709.0,Daniel Amartey,Leicester City,Right Back,DEF,59,1,4,0.0174,0.25,0.0169
+3649.0,Karl Darlow,Newcastle United,Goalkeeper,GK,115,1,9,0.00378,0.111,0.0087
+45389.0,Thomas Robson,Sunderland,Left Back,DEF,32,1,1,0.02498,1.0,0.0312
+3534.0,Clinton Mua N''Jie,Tottenham Hotspur,Left Wing,MID,87,1,8,0.01324,0.125,0.0115
+43757.0,Yoan Gouffran,Newcastle United,Left Wing,MID,90,1,8,0.0129,0.125,0.0111
+4273.0,Reece Oxford,West Ham United,Center Defensive Midfield,MID,46,1,7,0.02038,0.143,0.0217
+4700.0,Matthew Pennington,Everton,Left Center Back,DEF,145,1,4,0.00885,0.25,0.0069
+31904.0,Giedrius Arlauskis,Watford,Goalkeeper,GK,5,0,1,0.01567,0.0,0.0
+29382.0,Shaun MacDonald,AFC Bournemouth,Right Center Midfield,MID,17,0,3,0.01167,0.0,0.0
+41082.0,Steve Sidwell,Stoke City,Center Attacking Midfield,MID,6,0,1,0.01524,0.0,0.0
+4093.0,Jay Fulton,Swansea City,Right Defensive Midfield,MID,8,0,2,0.01444,0.0,0.0
+4053.0,Ben Foster,West Bromwich Albion,Goalkeeper,GK,157,0,15,0.00293,0.0,0.0
+3908.0,Nick Powell,Manchester United,Center Forward,FWD,2,0,1,0.01714,0.0,0.0
+3970.0,Fraser Forster,Southampton,Goalkeeper,GK,250,0,18,0.00196,0.0,0.0
+9519.0,Kyle Lafferty,Norwich City,Left Center Forward,FWD,6,0,1,0.01524,0.0,0.0
+9070.0,Hiram Boateng,Crystal Palace,Right Defensive Midfield,MID,9,0,1,0.01407,0.0,0.0
+3834.0,Ivan Toney,Newcastle United,Right Center Midfield,MID,4,0,2,0.01613,0.0,0.0
+9014.0,Declan Rudd,Norwich City,Goalkeeper,GK,177,0,11,0.00265,0.0,0.0
+8344.0,Manuel García Alonso,Manchester City,Right Defensive Midfield,MID,20,0,1,0.01097,0.0,0.0
+8400.0,Serge Gnabry,West Bromwich Albion,Right Midfield,MID,11,0,1,0.01338,0.0,0.0
+7010.0,Gastón Exequiel Ramírez Pereyra,Southampton,Right Wing,MID,20,0,3,0.01097,0.0,0.0
+7884.0,Marcin Ryszard Wasilewski,Leicester City,Right Center Back,DEF,47,0,4,0.00712,0.0,0.0
+8485.0,Pedro Chirivella Burgos,Liverpool,Right Center Midfield,MID,28,0,1,0.00946,0.0,0.0
+4243.0,Cameron Brannagan,Liverpool,Right Center Midfield,MID,117,0,3,0.00373,0.0,0.0
+4632.0,Stephen Ireland,Stoke City,Center Attacking Midfield,MID,160,0,13,0.00289,0.0,0.0
+4762.0,Sergi Canós Tenes,Liverpool,Right Wing,MID,4,0,1,0.01613,0.0,0.0
+5460.0,Andrej Kramarić,Leicester City,Left Center Midfield,MID,16,0,2,0.01193,0.0,0.0
+4837.0,Josh Cullen,West Ham United,Center Forward,FWD,1,0,1,0.0177,0.0,0.0
+6361.0,James Wilson,Manchester United,Right Wing,MID,9,0,1,0.01407,0.0,0.0
+4116.0,Sullay Kaikai,Crystal Palace,Left Midfield,MID,21,0,1,0.01076,0.0,0.0
+4129.0,Tyler Roberts,West Bromwich Albion,Right Wing,MID,13,0,1,0.01276,0.0,0.0
+4826.0,Yohan Benalouane,Leicester City,Right Back,DEF,9,0,4,0.01407,0.0,0.0
+4892.0,Sergio Germán Romero,Manchester United,Goalkeeper,GK,101,0,4,0.00419,0.0,0.0
+5109.0,Paulo Dino Gazzaniga,Southampton,Goalkeeper,GK,32,0,2,0.00885,0.0,0.0
+24888.0,Adam Federici,AFC Bournemouth,Goalkeeper,GK,87,0,6,0.00469,0.0,0.0
+22622.0,Kieran O''Neill Dowell,Everton,Right Wing,MID,38,0,2,0.00807,0.0,0.0
+41185.0,Jakob Haugaard,Stoke City,Goalkeeper,GK,75,0,5,0.00522,0.0,0.0
+9630.0,Andre Green,Aston Villa,Center Attacking Midfield,MID,34,0,2,0.00857,0.0,0.0
+9563.0,Kristoffer Nordfeldt,Swansea City,Goalkeeper,GK,13,0,1,0.01276,0.0,0.0
+9566.0,Bersant Celina,Manchester City,Right Midfield,MID,12,0,1,0.01306,0.0,0.0
+10458.0,Fikayo Tomori,Chelsea,Right Back,DEF,10,0,1,0.01371,0.0,0.0
+3807.0,Ryan Allsop,AFC Bournemouth,Goalkeeper,GK,6,0,1,0.01524,0.0,0.0
+3659.0,Wilfredo Daniel Caballero,Manchester City,Goalkeeper,GK,48,0,4,0.00703,0.0,0.0
+3609.0,Michel Vorm,Tottenham Hotspur,Goalkeeper,GK,38,0,1,0.00807,0.0,0.0
+15542.0,Jake-Liam Clarke-Salter,Chelsea,Left Back,DEF,6,0,1,0.01524,0.0,0.0
+11936.0,Harrison Reed,Southampton,Left Defensive Midfield,MID,6,0,1,0.01524,0.0,0.0
+10932.0,Jonathan Williams,Crystal Palace,Left Wing,MID,5,0,1,0.01567,0.0,0.0
+3333.0,David de Gea Quintana,Manchester United,Goalkeeper,GK,544,0,34,0.00096,0.0,0.0
+3323.0,Tyrone Mings,AFC Bournemouth,Left Back,DEF,4,0,1,0.01613,0.0,0.0
+9914.0,Danny Ward,Liverpool,Goalkeeper,GK,36,0,2,0.00831,0.0,0.0
+10326.0,João Carlos Vilaça Teixeira,Liverpool,Left Center Midfield,MID,4,0,1,0.01613,0.0,0.0
+9985.0,Ádám Bogdán,Liverpool,Goalkeeper,GK,27,0,2,0.00962,0.0,0.0
+9958.0,Steven Caulker,Southampton,Right Center Back,DEF,60,0,6,0.0061,0.0,0.0
+10484.0,Callum Connolly,Everton,Right Back,DEF,8,0,1,0.01444,0.0,0.0
+10772.0,Donald Love,Manchester United,Right Back,DEF,28,0,1,0.00946,0.0,0.0
+10770.0,Adam Matthews,Sunderland,Right Back,DEF,16,0,1,0.01193,0.0,0.0
+20066.0,Darren Randolph,West Ham United,Goalkeeper,GK,105,0,6,0.00406,0.0,0.0
+18672.0,Mark Bunn,Aston Villa,Goalkeeper,GK,98,0,10,0.00429,0.0,0.0
+3542.0,Jonjoe Kenny,Everton,Right Back,DEF,18,0,1,0.01143,0.0,0.0
+3487.0,Julián Speroni,Crystal Palace,Goalkeeper,GK,28,0,2,0.00946,0.0,0.0
+3488.0,Wayne Hennessey,Crystal Palace,Goalkeeper,GK,421,0,29,0.00122,0.0,0.0
+20067.0,Darron Gibson,Everton,Left Center Midfield,MID,155,0,6,0.00297,0.0,0.0
+18947.0,Sébastien Pocognoli,West Bromwich Albion,Left Back,DEF,19,0,1,0.0112,0.0,0.0
+43591.0,Marvin Emnes,Swansea City,Right Wing,MID,21,0,2,0.01076,0.0,0.0
+43121.0,Kelvin Davis,Southampton,Goalkeeper,GK,11,0,1,0.01338,0.0,0.0
+48634.0,"Charles N""Zogbia",Aston Villa,Left Wing,MID,14,0,2,0.01247,0.0,0.0
+128703.0,Dionatan do Nascimento Teixeira,Stoke City,Left Center Back,DEF,4,0,1,0.01613,0.0,0.0
+3440.0,Tammy Bakumo-Abraham,Chelsea,Center Forward,FWD,19,0,2,0.0112,0.0,0.0
+45014.0,Tokelo Anthony Rantie,AFC Bournemouth,Center Forward,FWD,17,0,3,0.01167,0.0,0.0
+20781.0,Jordan Rossiter,Liverpool,Center Defensive Midfield,MID,4,0,1,0.01613,0.0,0.0
+21540.0,Kevin Nolan,West Ham United,Right Attacking Midfield,MID,11,0,2,0.01338,0.0,0.0
+22237.0,Mamadou Obbi Oularé,Watford,Right Center Midfield,MID,3,0,2,0.01662,0.0,0.0
+129558.0,Tony Hibbert,Everton,Right Back,DEF,16,0,1,0.01193,0.0,0.0
+129559.0,Rees Greenwood,Sunderland,Left Midfield,MID,24,0,1,0.01016,0.0,0.0
