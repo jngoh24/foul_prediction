@@ -81,7 +81,7 @@ FEATS = CAT + NUM + BOOL
 def load_data():
     players = pd.read_csv("data/player_stats.csv")
     teams = pd.read_csv("data/team_stats.csv")
-    gains = pd.read_csv("data/gains.csv")
+    gains = pd.read_parquet("data/gains.parquet")
     # normalise booleans coming back from csv
     for c in ['under_pressure']:
         gains[c] = gains[c].astype(str).str.lower().isin(['true','1'])
