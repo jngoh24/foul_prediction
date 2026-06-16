@@ -437,7 +437,7 @@ with tab2:
             chosen = st.selectbox("Team", team_list,
                                   index=team_list.index(default_team) if default_team in team_list else 0)
             row = ft[ft['team'] == chosen].iloc[0]
-            m1, m2 = st.columns(2)
+            _padL, m1, m2, _padR = st.columns([0.2, 1, 1, 0.6])
             m1.metric("Fouls drawn", f"{int(row['fouls_won_total'])}")
             m2.metric("Per game", f"{row['fouls_per_game']:.2f}")
             st.markdown(f'<p class="caption">Top 3 foul-winners · {chosen}</p>', unsafe_allow_html=True)
