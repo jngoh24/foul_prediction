@@ -292,7 +292,7 @@ with st.sidebar:
 # ─────────────────────────────────────────────
 # Header
 # ─────────────────────────────────────────────
-st.markdown('<p class="eyebrow" style="margin-bottom:4px;">English Premier League 2015/16 · StatsBomb event data</p>',
+st.markdown('<p class="eyebrow" style="margin-bottom:4px;">English Premier League 2015/16</p>',
             unsafe_allow_html=True)
 st.markdown('<h1 style="margin:0 0 4px 0;">Winning Fouls</h1>', unsafe_allow_html=True)
 st.markdown(f"<p class='kicker'>Modelling the probability a player wins a foul on his possession "
