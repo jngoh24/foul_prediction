@@ -408,7 +408,7 @@ with tab1:
 with tab2:
     st.markdown("### Team foul-drawing")
     st.markdown('<p class="caption">Click a row in the table to drill into a club and see its '
-                'top three foul-winners.</p>', unsafe_allow_html=True)
+                'top five foul-winners.</p>', unsafe_allow_html=True)
 
     ft = ft.copy()
     ft['foul_rate'] = (ft['fouls_won_total'] / ft['touches'] * 100).round(2)
@@ -440,12 +440,12 @@ with tab2:
             _padL, m1, m2, _padR = st.columns([0.2, 1, 1, 0.6])
             m1.metric("Fouls drawn", f"{int(row['fouls_won_total'])}")
             m2.metric("Per game", f"{row['fouls_per_game']:.2f}")
-            st.markdown(f'<p class="caption">Top 3 foul-winners · {chosen}</p>', unsafe_allow_html=True)
-            top3 = (players_df[players_df['team'] == chosen]
-                    .sort_values('fouls_won', ascending=False).head(3)
+            st.markdown(f'<p class="caption">Top 5 foul-winners · {chosen}</p>', unsafe_allow_html=True)
+            top5 = (players_df[players_df['team'] == chosen]
+                    .sort_values('fouls_won', ascending=False).head(5)
                     [['player_name', 'position', 'fouls_won', 'fouls_per_game']].reset_index(drop=True))
-            top3.index = top3.index + 1
-            st.dataframe(top3, use_container_width=True,
+            top5.index = top5.index + 1
+            st.dataframe(top5, use_container_width=True,
                 column_config={
                     'player_name': st.column_config.TextColumn("Player"),
                     'position': st.column_config.TextColumn("Position"),
