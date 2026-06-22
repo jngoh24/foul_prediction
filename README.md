@@ -59,12 +59,38 @@ Four tabs:
     └── foul_won_model.html    # rendered, no setup required to read
 ```
 
-## The model
+## How the model works
 
-- **Type:** histogram gradient boosting (scikit-learn `HistGradientBoostingClassifier`), benchmarked against a base-rate baseline, logistic regression, and random forest.
-- **Target:** a "touch" (successful ball receipt or recovery) is labelled `1` if the same player wins a foul in that possession before giving the ball up.
-- **Features:** spatial (location + distances), pressure, play pattern, position, possession context (transition vs settled), incoming-pass attributes, and a **leakage-safe, out-of-fold player foul-drawing rate** — the single most important engineered feature.
-- **Evaluation:** ROC/PR curves, calibration (overall + subgroup), precision/recall by threshold, top-K targeting, segment performance, error analysis, partial dependence, and CV stability — all in the notebook.
+### Target
+
+The unit is a **touch** — a successful ball receipt or a ball recovery (323,322 in the season). A touch is labelled `1` if a foul won credited to **the same player** occurs in the **same possession** before he gives the ball up, and `0` otherwise. The defender's foul that immediately precedes the foul won is handled so the canonical chain *receive → carry → fouled* is captured. About 65% of the season's fouls trace back to a tracked receipt/recovery; the rest follow clearances, 50/50s, and set pieces and are out of scope.
+
+### Features
+
+Almost everything is engineered — the raw event log doesn't contain these columns:
+
+- **Spatial** — pitch location plus distances to goal, own goal, touchline, and centre.
+- **Pressure & context** — under-pressure flag, play pattern (counters draw fouls ~5×), position group.
+- **Possession context** — how deep into the possession the touch occurs (passes already made, time elapsed), computed by walking the event stream — the transition-vs-settled signal.
+- **Incoming pass** — the delivering pass's length and height, joined onto the receipt (recoveries have none, which is itself informative).
+- **Player foul-drawing tendency** — the standout feature. Drawing fouls is a skill with a ~25× spread across players, so player identity is highly predictive but dangerous to encode naively. It is computed **out-of-fold** within the training set (grouped by match, so a player's value never uses his own match) and **smoothed** toward the league rate so thin-sample players regress to the mean — leakage-safe by construction.
+
+### Training & validation
+
+- **Split** — grouped 80/20 by match, so no match appears in both train and test (prevents within-match leakage). Robustness is checked with a temporal split and 5-fold grouped cross-validation (ROC-AUC 0.800 ± 0.003).
+- **Model** — histogram gradient boosting: it captures the non-monotonic spatial effects, learns feature interactions, handles missing values natively, and stays calibrated on a rare target without class reweighting. Probabilities are left unweighted to preserve calibration.
+- **Evaluation** — accuracy is meaningless at a 1.8% base rate (the model never exceeds ~0.4, so a 0.5 cutoff predicts nothing), so evaluation is threshold-free and probability-first: ROC/PR-AUC, log loss and Brier skill scores, calibration (overall and by subgroup), precision/recall by threshold, top-K targeting, segment performance, error analysis, and partial dependence — all in the notebook.
+
+### Model comparison
+
+| Model | ROC-AUC | PR-AUC | Log loss | Brier |
+|-------|---------|--------|----------|-------|
+| Baseline (base rate) | 0.500 | 0.018 | 0.0908 | 0.01783 |
+| Logistic Regression | 0.794 | 0.089 | 0.0794 | 0.01718 |
+| Random Forest | 0.807 | 0.094 | 0.0782 | 0.01711 |
+| **Gradient Boosting** | **0.809** | **0.099** | **0.0779** | **0.01706** |
+
+A feature ablation confirms the story: the player tendency alone reaches a third of the full PR-AUC, the top three features (player + pressure + play pattern) recover ~75% of it, and removing pressure hurts most while removing pitch location barely registers. The model class is not the lever — the two ensembles cluster, and both beat logistic regression because of the non-linearity and interactions.
 
 ## Run locally
 
