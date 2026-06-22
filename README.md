@@ -25,7 +25,9 @@ Four tabs:
 | **Pitch** | Foul-won rate by pitch location, play pattern, and receipt vs recovery |
 | **Model** | Set a situation and get the calibrated foul-win probability live |
 
-> _Replace the badge/links above with your deployed Streamlit URL, and drop a screenshot here._
+![Foul-Won dashboard — Players tab](assets/dashboard.png)
+
+![Foul-Won dashboard — Model tab](assets/model_tab.png)
 
 ## Key results
 
