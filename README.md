@@ -35,29 +35,10 @@ Four tabs:
 |---|---|
 | Touches modeled | 323,322 |
 | Base rate (foul won / possession) | 1.83% |
-| **ROC-AUC** | **0.81** (0.800 ± 0.003 over 5 CV splits) |
-| **PR-AUC** | **0.099** (≈ 5.5× base rate) |
 | Top-decile capture | ~47% of all fouls in 10% of touches |
 | Calibration | reliable overall **and** within subgroups |
 
 **What drives it:** being *under pressure* when you get the ball, *who the player is* (a learned foul-drawing tendency), and *play pattern* (counter-attacks draw fouls ~5× the average).
-
-## Repository structure
-
-```
-.
-├── app.py                  # Streamlit dashboard (single file)
-├── requirements.txt
-├── .streamlit/
-│   └── config.toml         # theme
-├── data/
-│   ├── gains.parquet       # one row per ball reception/recovery (features + label)
-│   ├── player_stats.csv
-│   └── team_stats.csv
-└── modeling/
-    ├── foul_won_model.ipynb   # full analysis: EDA → features → model → evaluation
-    └── foul_won_model.html    # rendered, no setup required to read
-```
 
 ## How the model works
 
@@ -91,6 +72,23 @@ Almost everything is engineered — the raw event log doesn't contain these colu
 | **Gradient Boosting** | **0.809** | **0.099** | **0.0779** | **0.01706** |
 
 A feature ablation confirms the story: the player tendency alone reaches a third of the full PR-AUC, the top three features (player + pressure + play pattern) recover ~75% of it, and removing pressure hurts most while removing pitch location barely registers. The model class is not the lever — the two ensembles cluster, and both beat logistic regression because of the non-linearity and interactions.
+
+## Repository structure
+
+```
+.
+├── app.py                  # Streamlit dashboard (single file)
+├── requirements.txt
+├── .streamlit/
+│   └── config.toml         # theme
+├── data/
+│   ├── gains.parquet       # one row per ball reception/recovery (features + label)
+│   ├── player_stats.csv
+│   └── team_stats.csv
+└── modeling/
+    ├── foul_won_model.ipynb   # full analysis: EDA → features → model → evaluation
+    └── foul_won_model.html    # rendered, no setup required to read
+```
 
 ## Run locally
 
