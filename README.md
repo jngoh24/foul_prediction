@@ -1,4 +1,4 @@
-# Foul-Won Modelling & Analytics — Premier League 2015/16
+# Foul-Won Modeling & Analytics — Premier League 2015/16
 
 Predicting the probability that a player **wins a foul on his possession** after he receives or recovers the ball — built on detailed match-event data — plus an interactive Streamlit dashboard to explore who draws fouls, where they happen, and what drives them.
 
@@ -33,7 +33,7 @@ Four tabs:
 
 | Metric | Value |
 |---|---|
-| Touches modelled | 323,322 |
+| Touches modeled | 323,322 |
 | Base rate (foul won / possession) | 1.83% |
 | **ROC-AUC** | **0.81** (0.800 ± 0.003 over 5 CV splits) |
 | **PR-AUC** | **0.099** (≈ 5.5× base rate) |
@@ -63,13 +63,13 @@ Four tabs:
 
 ### Target
 
-The unit is a **touch** — a successful ball receipt or a ball recovery (323,322 in the season). A touch is labelled `1` if a foul won credited to **the same player** occurs in the **same possession** before he gives the ball up, and `0` otherwise. The defender's foul that immediately precedes the foul won is handled so the canonical chain *receive → carry → fouled* is captured. About 65% of the season's fouls trace back to a tracked receipt/recovery; the rest follow clearances, 50/50s, and set pieces and are out of scope.
+The unit is a **touch** — a successful ball receipt or a ball recovery (323,322 in the season). A touch is labeled `1` if a foul won credited to **the same player** occurs in the **same possession** before he gives the ball up, and `0` otherwise. The defender's foul that immediately precedes the foul won is handled so the canonical chain *receive → carry → fouled* is captured. About 65% of the season's fouls trace back to a tracked receipt/recovery; the rest follow clearances, 50/50s, and set pieces and are out of scope.
 
 ### Features
 
 Almost everything is engineered — the raw event log doesn't contain these columns:
 
-- **Spatial** — pitch location plus distances to goal, own goal, touchline, and centre.
+- **Spatial** — pitch location plus distances to goal, own goal, touchline, and center.
 - **Pressure & context** — under-pressure flag, play pattern (counters draw fouls ~5×), position group.
 - **Possession context** — how deep into the possession the touch occurs (passes already made, time elapsed), computed by walking the event stream — the transition-vs-settled signal.
 - **Incoming pass** — the delivering pass's length and height, joined onto the receipt (recoveries have none, which is itself informative).
