@@ -669,9 +669,7 @@ with tab4:
 
 st.divider()
 st.markdown(
-    f'<p style="text-align:center;font-family:Inter,sans-serif;font-size:11px;color:#aaa;">'
-    f'English Premier League 2015/16 · 323,322 ball receptions/recoveries · '
-    f'league base rate {BASE_RATE*100:.2f}% fouls won per possession &nbsp;·&nbsp; '
+    f'<p style="text-align:center;font-family:Inter,sans-serif;font-size:13px;color:#aaa;">'
     f'<a href="https://github.com/jngoh24/epl_foul_prediction" target="_blank" '
     f'style="color:#888;text-decoration:underline;">View on GitHub</a></p>',
     unsafe_allow_html=True)
