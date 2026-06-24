@@ -292,10 +292,10 @@ with st.sidebar:
 # ─────────────────────────────────────────────
 # Header
 # ─────────────────────────────────────────────
-st.markdown('<p class="eyebrow" style="margin-bottom:4px;">English Premier League 2015/16</p>',
+st.markdown('<p class="eyebrow" style="margin-bottom:4px;">English Premier League 2015/16 · StatsBomb event data</p>',
             unsafe_allow_html=True)
 st.markdown('<h1 style="margin:0 0 4px 0;">Winning Fouls</h1>', unsafe_allow_html=True)
-st.markdown(f"<p class='kicker'>Modeling the probability a player wins a foul on his possession "
+st.markdown(f"<p class='kicker'>Modelling the probability a player wins a foul on his possession "
             f"after receiving or recovering the ball — a league-wide "
             f"<span class='threshold-badge'>{BASE_RATE*100:.2f}%</span> per possession.</p>",
             unsafe_allow_html=True)
@@ -668,6 +668,10 @@ with tab4:
                     'pressure" or switch to a counter to see the swing.</p>', unsafe_allow_html=True)
 
 st.divider()
-st.markdown(f'<p class="caption">Data: StatsBomb open event data, EPL 2015/16 · '
-            f'323,322 ball receptions/recoveries · league base rate {BASE_RATE*100:.2f}% '
-            f'fouls won per possession.</p>', unsafe_allow_html=True)
+st.markdown(
+    f'<p style="text-align:center;font-family:Inter,sans-serif;font-size:11px;color:#aaa;">'
+    f'English Premier League 2015/16 · 323,322 ball receptions/recoveries · '
+    f'league base rate {BASE_RATE*100:.2f}% fouls won per possession &nbsp;·&nbsp; '
+    f'<a href="https://github.com/jngoh24/epl_foul_prediction" target="_blank" '
+    f'style="color:#888;text-decoration:underline;">View on GitHub</a></p>',
+    unsafe_allow_html=True)
